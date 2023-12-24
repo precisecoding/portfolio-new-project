@@ -1,6 +1,6 @@
 # 20 React: React Portfolio
 
-## Description:
+## Description
 
 ```md
 Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
@@ -52,7 +52,7 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 The following screenshot shows the web application's appearance and functionality:
 
-![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./src/assets/reactscreenshot.png)
+![User clicks through About Me, Portfolio, Resume, and Contact sections on the webpage and enters information on Contact page.](./src/assets/pageload.png)
 
 ## Motivation
 
@@ -60,31 +60,52 @@ I was motivated to complete this project because I wanted to learn how to use Re
 
 ## Why
 
-I created this project because I wanted to learn how to use React to create a portfolio. I also wanted to learn how to use React to create a single page application.
+I created this project while learning react, react is an efficient, flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
 
 ## What problem does it solve?
 
-This project solves the problem of creating a portfolio using React. It also solves the problem of creating a single page application using React.
+This project solves the problem of creating a a lightweight and efficient single page application. It allows for faster rendering without the requirement of a page refresh.
 
 ## What did you learn?
 
-I learned how to use React to create a portfolio. React is a new technology allowing for I also learned how to use React to create a single page application.
+I learned react is quick not requiring page refresh when navigating through the site. When writing the code I learned how to use react components, react hooks, react router, useState vs useRef, reRenders, and react router dom. This project also helped me learn how to use react to create a portfolio.
 
-## What makes your project stand out?
+## What makes your project stand out
 
-My project stands out because it uses React to create a portfolio. It also uses React to create a single page application.
+My project stands out because it uses React to create a portfolio as a single page application. It uses netlify for deployment allowing for users to view the site without the need to refresh the page.
 
-### Link to github repo:
+## Installation
 
-<https://github.com/precisecoding/Portfolio>
+To install this project you will need to clone the repository onto your local machine. Once the repository is cloned, you will need to install the dependencies by running the command "npm install" in your terminal. Once the dependencies are installed you will need to run the command "npm start" in your terminal to start the application.
 
-### Deployed link:
+## Usage
+
+This project will be used to demonstrate my skills as a web developer. It will be used to showcase my projects and provide a way for potential employers to contact me.
+
+Page Load
+![Screenshot of my portfolio web app showing page load.](./src/assets/pageload.png)
+
+Nav Link Projects
+![Screenshot of my portfolio web app showing nav link to my projects page.](./src/assets/navlnkprojects.png)
+
+Nav Link Contact
+![Screenshot of my portfolio web app showing nav link to my contact page.](./src/assets/navlnkcontact.png)
+
+Nav Link Resume
+![Screenshot of my portfolio web app showing nav link to my resume page.](./src/assets/navlnkresume.png)
+
+### Link to github repo
+
+<https://github.com/precisecoding/portfolio-new-project>
+
+### Deployed link
 
 <https://jeff-rojas.netlify.app/>
 
-### This site was built using github pages.
+### This site was built using netlify
 
-<https://pages.github.com/>
+<https://netlify.com>
+<https://react.com>
 
 ### License
 
@@ -93,6 +114,6 @@ MIT License:
 <https://choosealicense.com/licenses/mit/>
 LICENSE file included in repository.
 
-### Thanks to everyone for support and contributions!
+### Thanks to everyone for support and contributions
 
 Sources used: <https://developer.mozilla.org/en-US/>, <https://www.w3schools.com/>, <https://stackoverflow.com/>. Worked with TA George Yoo while on writing the pseudo code, once again he was very helpful.
